@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_cost,reorder_level,reorder_quantity,supplier_id
+P001,Steel Rod 10mm,Raw Material,450,100,500,S001
+P002,Aluminum Sheet,Raw Material,1200,50,200,S002
+P003,Electric Motor 5HP,Components,8500,20,50,S003
+P004,Copper Wire 2mm,Raw Material,980,75,300,S001
+P005,Hydraulic Pump,Components,15000,10,25,S004
+P006,PVC Pipe 3inch,Raw Material,320,150,600,S005
+P007,Ball Bearing Set,Components,2200,40,100,S003
+P008,Industrial Rubber Sheet,Raw Material,780,60,250,S002
+P009,Control Panel Unit,Components,22000,5,15,S004
+P010,Stainless Steel Bolt,Raw Material,85,500,2000,S005

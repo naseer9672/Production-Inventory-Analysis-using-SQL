@@ -1,0 +1,11 @@
+inventory_id,product_id,warehouse_location,quantity_in_stock,last_updated,quantity_received,quantity_dispatched
+INV001,P001,Warehouse-A,350,2024-01-15,500,150
+INV002,P002,Warehouse-A,80,2024-01-18,200,120
+INV003,P003,Warehouse-B,15,2024-01-20,50,35
+INV004,P004,Warehouse-A,60,2024-01-22,300,240
+INV005,P005,Warehouse-B,8,2024-01-25,25,17
+INV006,P006,Warehouse-C,420,2024-01-10,600,180
+INV007,P007,Warehouse-B,95,2024-01-28,100,5
+INV008,P008,Warehouse-C,45,2024-01-30,250,205
+INV009,P009,Warehouse-B,3,2024-02-01,15,12
+INV010,P010,Warehouse-A,1800,2024-02-03,2000,200
